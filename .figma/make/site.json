@@ -1,0 +1,10 @@
+{
+  "description": "Streamline your rental business with an intuitive app that simplifies user experience, featuring a clean design and efficient login for easy access.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
